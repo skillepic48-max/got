@@ -176,6 +176,11 @@
     "Adobe Media Encoder": "https://ik.imagekit.io/dkdlgynlu/Wattpad%20_64C8CFC_.png?updatedAt=1768837723673",
     "Adobe Character Animator": "https://ik.imagekit.io/dkdlgynlu/Wattpad%20_0A8896F_.png?updatedAt=1768837723721",
     "Adobe Firefly": "https://ik.imagekit.io/dkdlgynlu/Wattpad%20_88B2A40_.png?updatedAt=1768837723447",
+    "Adobe Bridge": "https://ik.imagekit.io/dkdlgynlu/ICON%20_A903907_.png?updatedAt=1768903201168",
+"Adobe Express": "https://ik.imagekit.io/dkdlgynlu/Wattpad%20_F486975_.png?updatedAt=1768837723481",
+"Adobe Capture": "https://ik.imagekit.io/dkdlgynlu/Wattpad%20_2256076_.png?updatedAt=1768837723698",
+"Adobe Aero": "https://ik.imagekit.io/dkdlgynlu/ICON%20_499A5C1_.png?updatedAt=1768903451221",
+"Adobe Fonts": "https://ik.imagekit.io/dkdlgynlu/Wattpad%20_7EAC5B9_.png?updatedAt=1768837723659",
     // GOOGLE PLAY REGIONS
     "Google Play Turkey": "https://ik.imagekit.io/dkdlgynlu/New%20Project%207%20_C5A9149_.png",
     "Google Play Indonesia": "https://ik.imagekit.io/dkdlgynlu/New%20Project%207%20_9D4756B_.png",
@@ -1184,6 +1189,22 @@
     "Adobe Media Encoder": { "Private": [{ "duration": "4 Months", "price": "20,000 Kyats" }] },
     "Adobe Character Animator": { "Private": [{ "duration": "4 Months", "price": "20,000 Kyats" }] },
     "Adobe Firefly": { "Private": [{ "duration": "4 Months", "price": "20,000 Kyats" }] },
+   "Adobe Bridge": {
+  "Private": [{ "duration": "4 Months", "price": "20,000 Kyats" }]
+},
+"Adobe Express": {
+  "Private": [{ "duration": "4 Months", "price": "20,000 Kyats" }]
+},
+"Adobe Capture": {
+  "Private": [{ "duration": "4 Months", "price": "20,000 Kyats" }]
+},
+"Adobe Aero": {
+  "Private": [{ "duration": "4 Months", "price": "20,000 Kyats" }]
+},
+"Adobe Fonts": {
+  "Private": [{ "duration": "4 Months", "price": "20,000 Kyats" }]
+},
+
     "HMA VPN": {
       "Private": [{
         "duration": "1 Month",
@@ -1805,6 +1826,11 @@
     "Adobe Media Encoder": ["pc"],
     "Adobe Character Animator": ["pc"],
     "Adobe Firefly": ["pc", "android", "ios"],
+    "Adobe Bridge": ["pc"],
+"Adobe Express": ["android", "ios", "pc"],
+"Adobe Capture": ["android", "ios"],
+"Adobe Aero": ["ios", "pc"],
+"Adobe Fonts": ["pc", "android", "ios"],
     "HMA VPN": ["pc", "android", "ios"],
     "Crunchyroll": ["android", "ios", "pc"],
     "Telegram Star": ["android", "ios", "pc"],
