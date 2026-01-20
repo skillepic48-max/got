@@ -133,6 +133,8 @@
     "iCloud": "https://ik.imagekit.io/dkdlgynlu/New-Project-52-30-EDAEA.png",
     "ChatGPT Plus": "https://ik.imagekit.io/dkdlgynlu/New-Project-52-6-CB3-A91-1.png",
     "Gemini Veo 3": "https://ik.imagekit.io/dkdlgynlu/New-Project-52-906-D5-F0.png",
+    "Flow AI": "https://ik.imagekit.io/dkdlgynlu/Wattpad%20_A4B3FC6_.png?updatedAt=1768837724112",
+    "NotebookLM": "https://ik.imagekit.io/dkdlgynlu/Wattpad%20_363313A_.png?updatedAt=1768837724010",
     "Grammarly AI": "https://ik.imagekit.io/dkdlgynlu/New-Project-52-087-AC47.png",
     "Zoom": "https://ik.imagekit.io/dkdlgynlu/New-Project-52-5270010.png",
     "YouTube": "https://ik.imagekit.io/dkdlgynlu/New-Project-52-2-DCD6-D5.png",
@@ -1804,6 +1806,8 @@
     "ChatGPT Plus": ["android", "ios", "pc"],
     "Gemini Veo 3": ["android", "ios", "pc"],
     "Grammarly AI": ["pc", "android", "ios"],
+    "Flow AI": ["android", "ios", "pc"],
+    "NotebookLM": ["android", "ios", "pc"],
     "Zoom": ["pc", "android", "ios"],
     "YouTube": ["pc", "android", "ios", "tv"],
     "Tinder": ["android", "ios"],
@@ -2526,6 +2530,19 @@ Includes 2000GB Google storage• Unlimited devices
 
 OwnMail Invite
 ဒါကကိုယ့်ရဲ့GmailကိုပဲProလုပ်ပေးတာမလို့။အလုပ်လဲမရှုပ်ပါဘူး။ Password လဲပေးစရာမလိုပါဘူး။ Device ကလဲဝင်ထားသလောက်သုံးလို့ရနေမာပါ။` + generalDetailsBlock,
+    "Flow AI": `OwnMail Invite
+
+ဒီဟာကGoogle One Pro,Gemini Proဝယ်ရင်ပါတဲ့ဟာပါ။
+ဒီဟာဝယ်ရင်
+Google One Storage2TB 1Year
+Gemini Veo 3 Pro 2TB 1Yearပါရမာပါ။` + generalDetailsBlock,
+
+"NotebookLM": `OwnMail Invite
+
+ဒီဟာကGoogle One Pro,Gemini Proဝယ်ရင်ပါတဲ့ဟာပါ။
+ဒီဟာဝယ်ရင်
+Google One Storage2TB 1Year
+Gemini Veo 3 Pro 2TB 1Yearပါရမာပါ။` + generalDetailsBlock,
     "Grammarly AI": `Share\nFull warranty • One device only` + generalDetailsBlock,
     "Zoom": `Full warranty.\nAll pro features unlock.\nCan use 2-5 devices.` + generalDetailsBlock,
     "YouTube": `Private (Individual Plan)
