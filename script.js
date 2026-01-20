@@ -687,7 +687,20 @@
         "duration": "1 Year",
         "price": "15,000 Kyats"
       }]
-    },
+    },"Flow AI": {
+  "OwnMail Invite": [{
+    "duration": "1 Year",
+    "price": "15,000 Kyats"
+  }]
+},
+
+"NotebookLM": {
+  "OwnMail Invite": [{
+    "duration": "1 Year",
+    "price": "15,000 Kyats"
+  }]
+},
+
     "Grammarly AI": {
       "Share": [{
         "duration": "1 Month",
