@@ -2226,6 +2226,11 @@ const adobeGroup = [
           } else if (sectionName === 'App&Web Private') {
              title += ' <span style="background:#ffeb3b; color:#000; padding:2px 6px; border-radius:4px; font-size:11px; margin-left:8px; font-weight:900; box-shadow:0 0 5px #ffeb3b;">Powered by AdobeCreativeCloud</span>';
           }
+        } else if (productName === 'Flow AI' || productName === 'NotebookLM') {
+         if (sectionName === 'Invite OwnMail' || sectionName === 'OwnMail Invite') {
+            title += ' <span style="background:#ffeb3b; color:#000; padding:2px 6px; border-radius:4px; font-size:11px; margin-left:8px; font-weight:900; box-shadow:0 0 5px #ffeb3b;">Powered By GoogleOneGemini</span>';
+          }
+
         } else if (productName === 'HBO Max') {
           if (sectionName.includes('(ULTIMATE)')) {
             title = 'HBO MAX (ULTIMATE) 1 Month';
